@@ -15,7 +15,11 @@ In short: When a fall is detected the app will send an SMS to the configured eme
 * Keep your device charged at all times.
 
 Install the app by side-loading the APK file available [here](https://github.com/altermarkive/experimental-fall-detector-android-app/releases)
-(you can find more info about the process [here](https://www.howtogeek.com/313433/how-to-sideload-apps-on-android/))
+(you can find more info about the process [here](https://www.howtogeek.com/313433/how-to-sideload-apps-on-android/)).
+
+If you are familiar with F-Droid repositories you can also use the following link:
+
+[<img alt="IzzyOnDroid" src="https://gitlab.com/IzzyOnDroid/repo/-/raw/master/assets/IzzyOnDroid.png" width="200px"/>](https://apt.izzysoft.de/fdroid/index/apk/altermarkive.guardian)
 
 ## SCREENSHOTS
 
