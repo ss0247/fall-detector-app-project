@@ -16,7 +16,7 @@ A Fall Detection app based on Machine Learning model
 
  EULA screen (MIT license)     | About view (with instructions & emergency button) | Sensor & detection signals view (pausable & zoomable) | Settings view (to set emergency number & data collection) | Emergency number editor (with contact book lookup)
 :-----------------------------:|:-------------------------------------------------:|:-----------------------------------------------------:|:---------------------------------------------------------:|:--------------------------------------------------:
- ![EULA](doc/screenshot.0.jpg) | ![About](doc/screenshot.1.jpg)                    | ![Signals](doc/screenshot.2.jpg)                      | ![Settings](doc/screenshot.3.jpg)                         | ![Contact](doc/screenshot.4.jpg)
+ ![EULA](doc/screenshot.0.jpg) | ![About](doc/screenshot.11.jpeg)                    | ![Signals](doc/screenshot.12.jpeg)                      | ![Settings](doc/screenshot.14.jpeg)                         | ![Contact](doc/screenshot.13.jpeg)
 
 ## CREDITS
 
