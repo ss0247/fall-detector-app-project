@@ -1,4 +1,4 @@
-# Experimental Fall Detector Android App
+# Fall Detector Android App
 
 ## INTRODUCTION
 
