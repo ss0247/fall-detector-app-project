@@ -29,17 +29,5 @@ If you are familiar with F-Droid repositories you can also use the following lin
 
 ## CREDITS
 
-The fall detection is based upon the algorithm number 2 described in
-*"Comparison of low-complexity fall detection algorithms for body attached accelerometers"*
-authored by Maarit Kangas, Antti Konttila, Per Lindgren, Ilkka Winblad, Timo Jamsa
-and published in Gait & Posture 28 (2008) by Elsevier (search for the paper [here](https://scholar.google.nl/scholar?hl=en&q=Comparison+of+low-complexity+fall+detection+algorithms+for+body+attached+accelerometers+Kangas+Konttila+Lindgren+Winblad+Jamsa))
+The fall detection is based upon the FallAllD: A Comprehensive Dataset of Human Falls and Activities of Daily Living by Majd Saleh, Université de Rennes 1, LTSI, Rennes, 35000, France, and INSERM, U1099, Rennes, 35000, France (search for the paper [here](https://ieee-dataport.org/open-access/fallalld-comprehensive-dataset-human-falls-and-activities-daily-living))
 
-![Algorithm](doc/GuardianFallDetector.png)
-
-## 2021 UPDATE
-
-The 2010 app was written in Java & C (both integrated via JNI and Android NDK) but I decided to port it to
-Kotlin to learn the language on a practical example. A couple of other aspects had to be updated too,
-including: permissions, image assets, deprecated APIs, theme, action layouts, Gradle files, etc.
-
-The app also allows to collect & share sensor data on IPFS for research purposes (it uses [IPFS HTTP client](https://github.com/ipfs-shipyard/java-ipfs-http-client), rather than [a full node](https://github.com/textileio/android-ipfs-lite)).
